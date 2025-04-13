@@ -58,5 +58,11 @@ Bu proje, kullanıcıların kendi etkinliklerini kolay ve güvenli bir şekilde 
    npm install
 
 ![Ekran görüntüsü 2025-01-15 221644](https://github.com/user-attachments/assets/ff3bd119-17a0-4b95-b85b-05b1dc700db1)
+![Ekran görüntüsü 2025-01-15 221757](https://github.com/user-attachments/assets/b3ccc84d-83a7-4682-a4c5-7fe460e24cf0)
+![Ekran görüntüsü 2025-01-15 221711](https://github.com/user-attachments/assets/21a78eb3-015d-482c-8229-14fe9af89196)
+![Ekran görüntüsü 2025-01-15 221700](https://github.com/user-attachments/assets/cfd5a7a8-56ec-4563-82e5-babc58b06d32)
+
+
+
 
    
